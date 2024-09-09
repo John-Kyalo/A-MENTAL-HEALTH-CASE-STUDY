@@ -1,2 +1,4 @@
 # A-MENTAL-HEALTH-CASE-STUDY
-Figuring out trends in the mental health space and making recommendations to help alleviate this global issue
+Analyze global trends in mental health disorders and create interactive visualizations to showcase prevalence changes over time.
+
+Skills: Time Series Analysis, Data Visualization, Exploratory Data Analysis, Python
